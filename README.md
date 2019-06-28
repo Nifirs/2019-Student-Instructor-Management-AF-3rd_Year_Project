@@ -29,7 +29,7 @@ Deployment:
 
 1.Download the Project folder
 
-2.Open the Terminal and go to the project folder (AF_Student_Info_System - Version-1.1) and type
+2.Open the Terminal and go in to the folder (AF_Student_Info_System - Version-1.1) and type
 
     cd client
 
@@ -53,4 +53,23 @@ Deployment:
     
 8.Then the Student Information System Application will be deployed in the http://localhost:3000/
 
-Happy Coding by TechGang
+9.Open the Terminal and go in to the folder (FileUploadDownloadDatabaseServer Folder) and type
+
+    nodemon server.js----->Backend Server will be run on Port:5000
+
+10.Open the Terminal and go in to the folder (FileUploadDownloadBackend Folder) and type
+    
+    npm run dev----->Backend Server will be run on Port:4000
+    
+11.Open the Terminal and go in to the folder (FronEnd-FileUploadDownload Folder) and type
+
+    npm start
+    
+12.Then the File Upload Download System Application will be deployed in the http://localhost:3001/
+
+
+
+
+*Happy Coding by TechGang-  Nilfa Sahilan
+
+
