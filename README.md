@@ -53,15 +53,16 @@ Deployment:
     
 8.Then the Student Information System Application will be deployed in the http://localhost:3000/
 
-9.Open the Terminal and go in to the folder (FileUploadDownloadDatabaseServer Folder) and type
+9.Open the Terminal and go in to the folder (AF_SIS_Project_FileUpload_Download_Server+Front--> FileUploadDownloadDatabaseServer Folder) and type
 
     nodemon server.js----->Backend Server will be run on Port:5000
 
-10.Open the Terminal and go in to the folder (FileUploadDownloadBackend Folder) and type
+10.Open the Terminal and go in to the folder (AF_SIS_Project_FileUpload_Download_Server+Front--> FileUploadDownloadBackend Folder)
+and type
     
     npm run dev----->Backend Server will be run on Port:4000
     
-11.Open the Terminal and go in to the folder (FronEnd-FileUploadDownload Folder) and type
+11.Open the Terminal and go in to the folder (AF_SIS_Project_FileUpload_Download_Server+Front--> FronEnd-FileUploadDownload Folder) and type
 
     npm start
     
