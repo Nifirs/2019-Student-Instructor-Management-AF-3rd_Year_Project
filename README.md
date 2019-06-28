@@ -68,7 +68,9 @@ and type
     
 12.Then the File Upload Download System Application will be deployed in the http://localhost:3001/
 
+13.Open the Folder springboot-crud-react in Spring Tool IDE and start the Server-->Server will be started on Port :8081
 
+14.Now everything is alright! You are good to go
 
 
 *Happy Coding by TechGang-  Nilfa Sahilan
