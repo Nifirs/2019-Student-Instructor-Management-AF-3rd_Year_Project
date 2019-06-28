@@ -29,7 +29,7 @@ Deployment:
 
 1.Download the Project folder
 
-2.Open the Terminal and go to the project folder and type
+2.Open the Terminal and go to the project folder (AF_Student_Info_System - Version-1.1) and type
 
     cd client
 
